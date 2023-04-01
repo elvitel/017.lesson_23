@@ -1,13 +1,3 @@
- 
-
-
-// const divParent = document.getElementById('parent');
-// window.addEventListener('load', function() {
-//     const myTable = document.createElement('table');
-//     for (i = 0; i <= 9; i++) {
-//         const myRow = myTable.insertRow(i);        
-//         for (j = 0; j <= 9; j++) {
-//             const myCell = myRow.insertCell(j);  
 window.onload = function() {   
     const divParent = document.getElementById('parent');                        
     const myTable = document.createElement('table');
